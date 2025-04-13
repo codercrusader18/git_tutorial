@@ -5,4 +5,4 @@ def sum(a, b):
     return a + b
 
 print("The sum of the two numbers is: ", sum(a, b))
-print("Program is terminated")
+print("Version 3")
